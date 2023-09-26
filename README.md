@@ -1,13 +1,8 @@
 # GEO ADVISOR
-GEO ADVISOR is a web app in which we will be able to find the places according to the reviews.Using authentication in this web app for accessing it.
+GEO ADVISOR is a web app in which we will be able to find the places according to the reviews using authentication in this web app for accessing it.
 There will be two options for the Tourists.
-Firstly, they will come to find the place around them
-Secondly,
- Geo Location is the identification or estimation of the real-world geographic location of an object, such as any hotel,  restaurant , local  shops etc.. In its  simplest form geolocation involves the local street shops and is closely related to the use of a positioning system,  but its usefulness is enhanced by the use of these coordinates to determine a meaningful location, such as a street address.
-
-Every place on earth can be identified by two simple numbers: the longitude and latitude.
-Longitude is a geographic coordinate  that specifies the east-west position of a point on the Earth's surface. It is an angular measurement, usually expressed in degrees.
-Latitude is a geographic coordinate that specifies the north south position of a point on the Earth's surface. Latitude is an angle (defined below) which ranges from 0° at the equator to 90° (North or South) at the poles. Lines of constant latitude, or parallels, run east–west as circles parallel to the equator.
+Firstly, they will come to find the place around them where they can visit after seeing the reviews that are given by other users.
+Secondly, they can login to give the reviews about the places they have already visited and can upload the photographs with it.
 
 # TECHNOLOGY USED
 - React js
